@@ -2,10 +2,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZooMMaX&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZooMMaX)  
-
-![GitHub metrics](https://metrics.lecoq.io/ZooMMaX)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ZooMMaX)  
 
 ![Profile views](https://gpvc.arturio.dev/ZooMMaX)  
